@@ -5,12 +5,16 @@ BankManagement_C
 ----------------
 
 > 这是一个渣成翔一样的代码
+> This is a code like Zha Chengxiang
 
 项目是当时在年少轻狂无知的大一的时候写的，想想当时的感觉还小有成就感。
+The project was written when I was a young, frivolous and ignorant freshman. Thinking about it, I felt a sense of accomplishment at that time.
 
 小小的练手，第一个算的上自己写的第一个程序保存下来。
+With little practice, the first program written by myself was saved.
 
 ###功能
+###Features
 
 __+-------------------------------+__  
 __| 存款  请按 1     开户  请按 4 |__  
